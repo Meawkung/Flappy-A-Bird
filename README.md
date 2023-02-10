@@ -13,5 +13,6 @@
 
 ## Screenshots
 
-![App Screenshot](https://s9.gifyu.com/images/1676036249079.gif)
+![1676036249079](https://user-images.githubusercontent.com/29520617/218106844-5b731f72-6fd7-48f6-9cd0-2dd0408ac244.gif)
+
 
